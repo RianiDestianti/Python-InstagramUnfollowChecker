@@ -1,0 +1,7 @@
+instagram-*/
+notFollowingBack.txt
+notFollowedBack.txt
+inactiveAccounts.txt
+
+__pycache__/
+*.pyc
